@@ -22,7 +22,7 @@ Inspired by thinkers like John Locke, I turned to the essay as my primary medium
 # NAVIGATION: EXPLORING MY PERSPECTVE 
 
 
- 1) [read my thougts ]( THOUGHTS/) --- conatiains my thoughts and querrys , on a particular topic , phoemenona or idea ... 
+ 1) [read my thougts ](THOUGHTS) --- conatiains my thoughts and querrys , on a particular topic , phoemenona or idea ... 
  2) [obbservations](obbservations/)--- obbservations of my self , people , socitey , and wolrd system 
     
  4) [ideas](IDEAS/)
