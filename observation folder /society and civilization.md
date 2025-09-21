@@ -1,0 +1,9 @@
+
+# SOCITEY AND CIVILIZATION
+
+i made an obbservation .... i just stood on the street and got all info in and made meaning from it ....
+i made this understanding .... wherever ..there is the most interconnections ( roads , streets ) there is likely there will live a civilzated society ....
+hence if that society exist , there will be demands ..and to full fill those demands ..there will be services , shops , and institutions ...
+the type of shops and institutions depends on the type of collective society ..for example if the serives are mostly hospitals and clinics the civilians are likely to be med people
+in carreer ... although there still will be common shops liek food , drinks and services but mostly we wil see clinics ... so as if there is un educated civilans ..
+the services could be liquor, local serices , smokings , and etc
