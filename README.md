@@ -23,7 +23,7 @@ Inspired by thinkers like John Locke, I turned to the essay as my primary medium
 
 
  1) [read my thougts ](THOUGHTS) --- conatiains my thoughts and querrys , on a particular topic , phoemenona or idea ... 
- 2) [obbservations](obbservations/)--- obbservations of my self , people , socitey , and wolrd system 
+ 2) [observations](https://github.com/1Nullnet/1Nullnet.github.io/tree/observation)--- obbservations of my self , people , socitey , and wolrd system 
     
  4) [ideas](IDEAS/)
     . raw seed of ideas
