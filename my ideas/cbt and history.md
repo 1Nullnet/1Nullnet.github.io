@@ -1,6 +1,6 @@
 # CBT AND HISTROICAL REVOLUTIONS , NEW SYSMTEMS , NEW LAWS , AND A NEW CHANGE 
 
-This is a pattern i have observed and try to connect the indivudual concept of cbt ..which is question belifs ----> replace belief ---> from a new beleif this same pattern is obbserved in hsitory but at a mass scale .
+This is a pattern i have observed and try to connect the individual concept of cbt ..which is question belifs ----> replace belief ---> from a new beleif this same pattern is obbserved in hsitory but at a mass scale .
 
 some example ... the most common beleif before the concept of democracy 
 
