@@ -1,6 +1,8 @@
 
-ANNHILATION OF SELF AND BIRTH OF A CRIMINAL MIND 
+# ANNHILATION OF SELF AND BIRTH OF A CRIMINAL MIND 
 
+
+ ## QUESTION :  Why do even simple , normal and non pathalogical individuals , goes into an act of criminal harm and offense ?
 
 **DISCLAIMER: I am not professionally licensed to publish or write a report on criminal behaviour and forensic psychiatry. This is an exploratory essay (non academic and medical ) with no mention (just broad cases, not direct or focused) of real cases, names of victims, or accusers. I will not use sensitive words or phrases related to criminal and violent behaviours, so I will use words like 'harm', 'punish', etc.** 
 Its an exploration of how identity collapse effects human behaviour .
