@@ -13,3 +13,7 @@ no problem it will be solved in more extended axioms of knowledge , we will make
 
 
 [exploitation and dispersion of human epstimes ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/EXPLOITATION%20AND%20DISPERSION%20OF%20HUMAN%20EPISTEMES%20.md) This idea , is a form of thesis i made with observation of history and modern world , of how when new tech , innovation and ideas are chnaged into power and mass discipline system 
+
+
+
+[words are revolution ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/WORDS%20ARE%20REVOLUTION%20.md)  Here i show my thesis idea , that how words are not just symbols or a abstract concept we give meaning too , but it changes societies , laws , mass beliefs etc 
