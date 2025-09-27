@@ -9,7 +9,7 @@
  to think that in a deeper and fundamnetal level nature have a unfied wave like medium dynamics , whose distrubance give rise to matter and energy ( yes now i know as a challegne to this theory that matter and energy cannot be created only transfered)
  i think that the waves behaviour on diffrent distrubances , give rise to the fabric , and a cohrent perfect reality ( this reality is cannot be comphresnable by humans ) 
 
-i invistaged a lot , on thsi topic , how the fabric of reality is created , how objects amd forces interacts , and even tried to make simple equations assuming waves as 2D 
+i invistigated a lot , on this topic , how the fabric of reality is created , how objects amd forces interacts , and even tried to make simple equations assuming waves as 2D 
 
  a **continuous field** that governs both **matter** and **energy**—where disturbances create the universe’s structure and behavior—could provide a fascinating and potentially unified view of physics. By thinking of the **Higgs field** as a **wave liquid medium** permeating all of space
 
