@@ -22,4 +22,4 @@ no problem it will be solved in more extended axioms of knowledge , we will make
 [synthesis of system and symmetry] This is a work which i want to work on as it merges the system ( rational , logical , systmatic self ) to an symmetry ( emotional , feelings , subjective experience ) why i want to merge them ..as i thought these two are most extreme poles , many consider to be logical and supress emotions , and many take emotions before logics .. i want to make a synthesis that why both are important for existence and to percive reality 
 
 
-[evolution and dynamics of law](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/DYNAMICS%20OF%20LAW%20AND%20EVOLUTION%20.md) This work crtiques HART  concept of law , as also many think of law as just rules amd writtings but it is a dynamic evolving mirror of masses living in a society 
+[evolution and dynamics of law](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/DYNAMICS%20OF%20LAW%20AND%20EVOLUTION%20.md) This work crtiques HART  concept of law , as also many think of law as just rules and writtings but it is a dynamic evolving mirror of masses living in a society 
