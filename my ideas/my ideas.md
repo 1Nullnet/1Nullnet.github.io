@@ -23,3 +23,6 @@ no problem it will be solved in more extended axioms of knowledge , we will make
 
 
 [evolution and dynamics of law](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/DYNAMICS%20OF%20LAW%20AND%20EVOLUTION%20.md) This work crtiques HART  concept of law , as also many think of law as just rules and writtings but it is a dynamic evolving mirror of masses living in a society 
+
+
+[wave medium theory of leibniz monad](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/wave%20medium%20and%20LEIBNIZ%20MONADS.md) An extension of leibniz Monadology into a dynamic and a wave like structure for better understanding of reality
