@@ -17,3 +17,6 @@ no problem it will be solved in more extended axioms of knowledge , we will make
 
 
 [words are revolution ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/WORDS%20ARE%20REVOLUTION%20.md)  Here i show my thesis idea , that how words are not just symbols or a abstract concept we give meaning too , but it changes societies , laws , mass beliefs etc 
+
+
+[synthesis of system and symmetry] This is a work which i want to work on as it merges the system ( rational , logical , systmatic self ) to an symmetry ( emotional , feelings , subjective experience ) why i want to merge them ..as i thought these two are most extreme poles , many consider to be logical and supress emotions , and many take emotions before logics .. i want to make a synthesis that why both are important for existence and to percive reality 
