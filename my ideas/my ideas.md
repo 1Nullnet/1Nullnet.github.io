@@ -1,5 +1,6 @@
 # HERE I STORE AND WORK ON ALL OF MY IDEAS 
 
+MANY OF THESE ARE EXPLORATIONS , APPROACHES , METHODS , AND CONATAINS RAW NON RIGOROUS IDEAS
 
 [CBT AS A HISTORICAL FUNDAMENTAL ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/cbt%20and%20history.md) This idea says that how cbt ( cognitive behavioural therapy ) which is basicaly an indivual restricted and change negative belefs .. i stretched
  it into a more mass scale of how mass belifs are changed which changes history 
