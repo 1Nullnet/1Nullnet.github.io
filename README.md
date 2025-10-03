@@ -22,13 +22,13 @@ Inspired by thinkers like John Locke, I turned to the essay as my primary medium
 # NAVIGATION: EXPLORING MY PERSPECTVE 
 
 
- 1) [read my thougts ](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/thoughts.md) --- contains my thoughts and querrys , on a particular topic , phenomenon or idea ... 
- 2) [obbservations](https://github.com/1Nullnet/1Nullnet.github.io/blob/observation/observation%20folder%20/observations.md)--- observations of my self , people , socitey , and world systems
+ 1) [read my thougts ](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/thoughts.md) --- contains my thoughts and queries , on a particular topic , phenomenon or idea ... 
+ 2) [observations](https://github.com/1Nullnet/1Nullnet.github.io/blob/observation/observation%20folder%20/observations.md)--- observations of my self , people , society , and world systems
     
  4) [ideas](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/my%20ideas.md)
     . raw seed of ideas
     . ideas worked on
 
 5) [essays and thesis](essays/)--- contains orginal works
-6) [connections estbalishment](https://github.com/1Nullnet/1Nullnet.github.io/blob/connections/connections%20made/CONNECTIONS%20MAIN%20.md)---- 
+6) [connections establishment](https://github.com/1Nullnet/1Nullnet.github.io/blob/connections/connections%20made/CONNECTIONS%20MAIN%20.md)---- 
 synthesized and connected diverse ideas  
