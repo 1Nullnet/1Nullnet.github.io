@@ -19,7 +19,7 @@ However, repression only magnified the tension between my analytical training an
 
 # Why Essays? The Freedom of Expression
 Inspired by thinkers like John Locke, I turned to the essay as my primary medium. Essays are more than academic exercises; they are reflections of a mind engaged in active dialogue with itself and the world. They allow me to transform intuition into structured thought, connecting diverse fields without being constrained by formal publication requirements. This format honors the true spirit of intellectual freedom.
-# NAVIGATION: EXPLORING MY PERSPECTVE 
+# NAVIGATION: EXPLORING MY PERSPECTIVE 
 
 
  1) [read my thougts ](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/thoughts.md) --- conatiains my thoughts and querrys , on a particular topic , phoemenona or idea ... 
