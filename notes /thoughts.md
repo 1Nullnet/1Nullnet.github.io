@@ -7,3 +7,8 @@ which conatains questions , intuatuions , and thoughts
 
 [ooo ,accelerationism  , and system theory ](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/ooo%20%2C%20accelerationism%20%20%2C%20and%20system%20theory%20.md)
 - I have used the concept of ooo , and understand power , bodies and instutuions ..how they relate , interact and when it accelerates how it effects the whole connected dynamic ecosystem of world structures
+
+[Transgression and law ](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/Transgression%20and%20laws%20.md) Here i show the paradox of why more laws creates more crimes.
+
+
+[cult , meme and religion] Here i have thought about the pattern between cults , memes and religions 
