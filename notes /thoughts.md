@@ -11,4 +11,4 @@ which conatains questions , intuatuions , and thoughts
 [Transgression and law ](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/Transgression%20and%20laws%20.md) Here i show the paradox of why more laws creates more crimes.
 
 
-[cult , meme and religion] Here i have thought about the pattern between cults , memes and religions 
+[cult , meme and religion](https://github.com/1Nullnet/1Nullnet.github.io/blob/THOUGHTS/notes%20/cult%20%2C%20memes%20and%20religion.md) Here i have thought about the pattern between cults , memes and religions 
