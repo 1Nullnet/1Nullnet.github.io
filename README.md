@@ -31,4 +31,8 @@ Inspired by thinkers like John Locke, I turned to the essay as my primary medium
 
 5) [essays and thesis](essays/)--- contains orginal works
 6) [connections establishment](https://github.com/1Nullnet/1Nullnet.github.io/blob/connections/connections%20made/CONNECTIONS%20MAIN%20.md)---- 
-synthesized and connected diverse ideas  
+synthesized and connected diverse ideas
+
+7) [poetry ]
+
+8) [self learnings about life ](https://github.com/1Nullnet/1Nullnet.github.io/blob/self-learning/self%20learnings/self%20learnings%20.md) I store my self reflections and inspirations that influenced my perspective of mind 
