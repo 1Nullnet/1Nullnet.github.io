@@ -29,9 +29,15 @@ no problem it will be solved in more extended axioms of knowledge , we will make
 [wave medium theory of leibniz monad](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/wave%20medium%20and%20LEIBNIZ%20MONADS.md) An extension of leibniz Monadology into a dynamic and a wave like structure for better understanding of reality
 
 
-[ unbreackable machine ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/A%20THEORETICAL%20UNBREACKABLE%20MACHINE%20.md) A anlysis of a secure machine
+[ model of a advance security machine ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/A%20THEORETICAL%20UNBREACKABLE%20MACHINE%20.md) A anlysis of a secure machine
 
 [ post linguism ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/POST%20LINGUSIM%20.md) Predicting future of language
 
 
 [ Lacan and blockchain ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/AN%20EXTENSION%20OF%20LACAN%20.%20md) Extending lacans work , into a block chain system 
+
+[some theorems](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/SOME%20THEOREMS%20.md) Here i place all my theorems , that i will work on with proper tools of proof theory and logics .
+
+[sha 256 and rubix cube](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/SHA%20256%20AND%20CUBE%20.md) A connection i drawn from a rubix cube to solve the hash function , by its deterministic loop hole. Also extendng it into a unviversal GOD'S ALGORITHM , which can find the exact minimal configurations of steps needed to get back into the orginal or choosen state after scrambled in a non random way .
+
+[Connecting klien bottle to AI ](https://github.com/1Nullnet/1Nullnet.github.io/blob/ideas/my%20ideas/wondering%20on%20a%20klein%20bottle%20AI.md) As klien bottle ( a topological figure) have a property of  non-orientable and no boundries , made me think if we mix Ai with it , then the neural network would be able to perform repetitive queries and self fixing properties 
