@@ -1,7 +1,7 @@
  # junaid jafri's collective Intellectual Repository
 
 # Overview
-This repository is an intellectual workshop: a dynamic, interdisciplinary space for exploring, connecting, and refining thoughts through essays, observations, and theoretical inquiries. It represents my commitment to understanding complex systems—from digital hyperreality to cognitive architectures—by synthes ideas across philosophy, mathematics, and social theory. Content here is iterative and exploratory, emphasizing process over perfection and connection over categorization.
+This repository is an intellectual workshop: a dynamic, interdisciplinary space for exploring, connecting, and refining thoughts through essays, observations, and theoretical inquiries. It represents my commitment to understanding complex systems—from digital hyperreality to cognitive architectures - ideas across philosophy, mathematics, and social theory. Content here is iterative and exploratory, emphasizing process over perfection and connection over categorization.
 
 The Journey to Here: Overcoming Intellectual Paralysis
 My intellectual path has been defined by negotiating three core constraints:
