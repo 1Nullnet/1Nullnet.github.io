@@ -51,7 +51,7 @@ So, can my insight break the hash? Today, no. The fortress stands. But my explor
 
 The true "God Algorithm" for SHA-256 wouldn't be a brute-force search. It would have to be something transcendent. Perhaps a Quantum Annealer that treats the hash as a high-energy state and uses quantum tunneling to find the low-energy input state. Or an AI so intuitive it learns to see the hidden patterns in the chaos, the way a grandmaster sees ten moves ahead on a chessboard. Or a Mathematical Shortcut—a flaw in the design so subtle that it reveals a secret passage through the labyrinth, much like Shor's algorithm did for factoring large numbers.
 
-The Universe, Scrambled
+### The Universe, Scrambled
 
 Following this thread to its end leads me to a dizzying, philosophical conclusion. If a cube and a hash are analogous, and this logic can be applied to machines, then perhaps it applies to the ultimate machine: reality itself.
 
